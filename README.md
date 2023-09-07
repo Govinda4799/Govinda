@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Govinda4799
+- 👋 Hi, I’m @Govinda
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning front end development 
 - 💞️ I’m looking to collaborate on a website project
